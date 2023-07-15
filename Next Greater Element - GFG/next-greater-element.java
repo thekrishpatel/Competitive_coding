@@ -28,27 +28,19 @@ class GFG {
 
 // } Driver Code Ends
 
-class Solution
-{
-    //Function to find the next greater element for each element of the array.
-    public static long[] nextLargerElement(long[] arr, int n)
-    { 
-        // Your code here
-        Stack<Long> stk=new Stack<>();
-        long ans[]=new long[n];
-        
-        
-        for(int i=n-1;i>-1;i--){
-            while(!stk.isEmpty() && stk.peek()<=arr[i]){
-                stk.pop();
+class Solution {
+    // Function to find the next greater element for each element of the array.
+    public static long[] nextLargerElement(long[] arr, int n) {
+        long ans[] = new long[n];
+        for (int i = 0; i < n; i++) {
+            ans[i] = -1;
+            for (int j = i + 1; j < n; j++) {
+                if (arr[j] > arr[i]) {
+                    ans[i] = arr[j];
+                    break;
+                }
             }
-            if(stk.isEmpty())
-                ans[i]=-1;
-            else if (stk.peek()>arr[i]){
-                ans[i]=stk.peek();
-            }
-            stk.push(arr[i]);
         }
         return ans;
-    } 
+    }
 }
