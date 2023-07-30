@@ -8,10 +8,8 @@ class Solution {
         }
         al.sort(Comparator.naturalOrder());
         temp = head;
-        int i = 0;
-        while (temp != null) {
+        for (int i = 0; i < al.size(); i++) {
             temp.val = al.get(i);
-            i++;
             temp = temp.next;
         }
         return head;
