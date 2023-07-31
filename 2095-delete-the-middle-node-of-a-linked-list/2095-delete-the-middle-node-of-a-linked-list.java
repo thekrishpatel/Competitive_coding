@@ -21,10 +21,9 @@ class Solution {
             temp = temp.next;
         }
         if (temp == null || temp.next == null)
-            return null;
-        else {
+            head = null;
+        else
             temp.next = temp.next.next;
-            return head;
-        }
+        return head;
     }
 }
