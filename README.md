@@ -1,2 +1,2 @@
 # LeetCode
-Collection of LeetCode questions to ace the coding interview!
+Collection of competitive coding questions to ace the coding interview!
