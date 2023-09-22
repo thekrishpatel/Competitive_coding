@@ -11,21 +11,19 @@ import java.io.*;
 class Solution
 {
     //Function to sort the array using bubble sort algorithm.
-	public static void bubbleSort(int[] arr, int n) {
-        for (int i = arr.length - 1; i >= 0; i--) {
-            int didswap = 0;
-            for (int j = 0; j < i; j++) {
-                if (arr[j] > arr[j + 1]) {
-                    int temp = arr[j];
-                    arr[j] = arr[j + 1];
-                    arr[j + 1] = temp;
-                    didswap = 1;
-                }
-            }
-            if (didswap == 0) {
-                break;
+	static public void bubbleSort(int arr[], int n) {
+        if (n == 0) {
+            return;
+        }
+        int i = n - 1;
+        for (int j = 1; j <= i; j++) {
+            if (arr[j] < arr[j - 1]) {
+                int temp = arr[j];
+                arr[j] = arr[j - 1];
+                arr[j - 1] = temp;
             }
         }
+        bubbleSort(arr, n - 1);
     }
 }
 
