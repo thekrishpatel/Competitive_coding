@@ -7,13 +7,14 @@ class Solution {
             temp[j] = nums[i];
             j++;
         }
-        for (int i = nums.length - 1; i >= k; i--) {
-            nums[i] = nums[i - k];
-        }
         j = 0;
-        for (int i = k - 1; i >= 0; i--) {
-            nums[i] = temp[j];
-            j++;
+        for (int i = nums.length - 1; i >= 0; i--) {
+            if (i >= k)
+                nums[i] = nums[i - k];
+            else {
+                nums[i] = temp[j];
+                j++;
+            }
         }
     }
 }
