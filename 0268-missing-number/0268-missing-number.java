@@ -1,16 +1,11 @@
-import java.util.ArrayList;
-
 class Solution {
     public int missingNumber(int[] nums) {
-        ArrayList<Integer> arr = new ArrayList<>();
-        for (int i = 0; i < nums.length; i++) {
-            arr.add(nums[i]);
+        int n = nums.length;
+       int totalSum = n*(n+1)/2;
+        int sum = 0;
+        for(int i =0;i<n;i++){
+            sum = sum+nums[i]; 
         }
-        for (int i = 0; i <= nums.length; i++) {
-            if (!arr.contains(i)) {
-                return i;
-            }
-        }
-        return -1;
+        return totalSum - sum;
     }
 }
