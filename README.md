@@ -60,4 +60,12 @@ Collection of competitive coding questions to ace the coding interview!
 |  |
 | ------- |
 | [1803-average-waiting-time](https://github.com/thekrishpatel/Competitive_coding/tree/master/1803-average-waiting-time) |
+## String
+|  |
+| ------- |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/thekrishpatel/Competitive_coding/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/thekrishpatel/Competitive_coding/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
