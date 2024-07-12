@@ -63,6 +63,7 @@ Collection of competitive coding questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0299-bulls-and-cows](https://github.com/thekrishpatel/Competitive_coding/tree/master/0299-bulls-and-cows) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/thekrishpatel/Competitive_coding/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/thekrishpatel/Competitive_coding/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Stack
@@ -74,4 +75,12 @@ Collection of competitive coding questions to ace the coding interview!
 |  |
 | ------- |
 | [1818-maximum-score-from-removing-substrings](https://github.com/thekrishpatel/Competitive_coding/tree/master/1818-maximum-score-from-removing-substrings) |
+## Hash Table
+|  |
+| ------- |
+| [0299-bulls-and-cows](https://github.com/thekrishpatel/Competitive_coding/tree/master/0299-bulls-and-cows) |
+## Counting
+|  |
+| ------- |
+| [0299-bulls-and-cows](https://github.com/thekrishpatel/Competitive_coding/tree/master/0299-bulls-and-cows) |
 <!---LeetCode Topics End-->
