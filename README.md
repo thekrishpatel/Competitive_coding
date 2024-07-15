@@ -56,6 +56,7 @@ Collection of competitive coding questions to ace the coding interview!
 |  |
 | ------- |
 | [1803-average-waiting-time](https://github.com/thekrishpatel/Competitive_coding/tree/master/1803-average-waiting-time) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/thekrishpatel/Competitive_coding/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Simulation
 |  |
 | ------- |
@@ -82,6 +83,7 @@ Collection of competitive coding questions to ace the coding interview!
 | ------- |
 | [0299-bulls-and-cows](https://github.com/thekrishpatel/Competitive_coding/tree/master/0299-bulls-and-cows) |
 | [0726-number-of-atoms](https://github.com/thekrishpatel/Competitive_coding/tree/master/0726-number-of-atoms) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/thekrishpatel/Competitive_coding/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Counting
 |  |
 | ------- |
@@ -90,4 +92,12 @@ Collection of competitive coding questions to ace the coding interview!
 |  |
 | ------- |
 | [0726-number-of-atoms](https://github.com/thekrishpatel/Competitive_coding/tree/master/0726-number-of-atoms) |
+## Tree
+|  |
+| ------- |
+| [2306-create-binary-tree-from-descriptions](https://github.com/thekrishpatel/Competitive_coding/tree/master/2306-create-binary-tree-from-descriptions) |
+## Binary Tree
+|  |
+| ------- |
+| [2306-create-binary-tree-from-descriptions](https://github.com/thekrishpatel/Competitive_coding/tree/master/2306-create-binary-tree-from-descriptions) |
 <!---LeetCode Topics End-->
