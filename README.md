@@ -55,6 +55,7 @@ Collection of competitive coding questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [1207-delete-nodes-and-return-forest](https://github.com/thekrishpatel/Competitive_coding/tree/master/1207-delete-nodes-and-return-forest) |
 | [1803-average-waiting-time](https://github.com/thekrishpatel/Competitive_coding/tree/master/1803-average-waiting-time) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/thekrishpatel/Competitive_coding/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Simulation
@@ -84,6 +85,7 @@ Collection of competitive coding questions to ace the coding interview!
 | ------- |
 | [0299-bulls-and-cows](https://github.com/thekrishpatel/Competitive_coding/tree/master/0299-bulls-and-cows) |
 | [0726-number-of-atoms](https://github.com/thekrishpatel/Competitive_coding/tree/master/0726-number-of-atoms) |
+| [1207-delete-nodes-and-return-forest](https://github.com/thekrishpatel/Competitive_coding/tree/master/1207-delete-nodes-and-return-forest) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/thekrishpatel/Competitive_coding/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Counting
 |  |
@@ -96,15 +98,18 @@ Collection of competitive coding questions to ace the coding interview!
 ## Tree
 |  |
 | ------- |
+| [1207-delete-nodes-and-return-forest](https://github.com/thekrishpatel/Competitive_coding/tree/master/1207-delete-nodes-and-return-forest) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/thekrishpatel/Competitive_coding/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/thekrishpatel/Competitive_coding/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Tree
 |  |
 | ------- |
+| [1207-delete-nodes-and-return-forest](https://github.com/thekrishpatel/Competitive_coding/tree/master/1207-delete-nodes-and-return-forest) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/thekrishpatel/Competitive_coding/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/thekrishpatel/Competitive_coding/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Depth-First Search
 |  |
 | ------- |
+| [1207-delete-nodes-and-return-forest](https://github.com/thekrishpatel/Competitive_coding/tree/master/1207-delete-nodes-and-return-forest) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/thekrishpatel/Competitive_coding/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 <!---LeetCode Topics End-->
