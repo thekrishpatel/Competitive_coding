@@ -56,6 +56,7 @@ Collection of competitive coding questions to ace the coding interview!
 |  |
 | ------- |
 | [1207-delete-nodes-and-return-forest](https://github.com/thekrishpatel/Competitive_coding/tree/master/1207-delete-nodes-and-return-forest) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/thekrishpatel/Competitive_coding/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1803-average-waiting-time](https://github.com/thekrishpatel/Competitive_coding/tree/master/1803-average-waiting-time) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/thekrishpatel/Competitive_coding/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Simulation
@@ -112,4 +113,8 @@ Collection of competitive coding questions to ace the coding interview!
 | ------- |
 | [1207-delete-nodes-and-return-forest](https://github.com/thekrishpatel/Competitive_coding/tree/master/1207-delete-nodes-and-return-forest) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/thekrishpatel/Competitive_coding/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+## Matrix
+|  |
+| ------- |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/thekrishpatel/Competitive_coding/tree/master/1496-lucky-numbers-in-a-matrix) |
 <!---LeetCode Topics End-->
