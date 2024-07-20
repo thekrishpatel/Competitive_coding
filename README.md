@@ -57,6 +57,7 @@ Collection of competitive coding questions to ace the coding interview!
 | ------- |
 | [1207-delete-nodes-and-return-forest](https://github.com/thekrishpatel/Competitive_coding/tree/master/1207-delete-nodes-and-return-forest) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/thekrishpatel/Competitive_coding/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/thekrishpatel/Competitive_coding/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1803-average-waiting-time](https://github.com/thekrishpatel/Competitive_coding/tree/master/1803-average-waiting-time) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/thekrishpatel/Competitive_coding/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Simulation
@@ -80,6 +81,7 @@ Collection of competitive coding questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/thekrishpatel/Competitive_coding/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/thekrishpatel/Competitive_coding/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Hash Table
 |  |
@@ -117,4 +119,5 @@ Collection of competitive coding questions to ace the coding interview!
 |  |
 | ------- |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/thekrishpatel/Competitive_coding/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/thekrishpatel/Competitive_coding/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 <!---LeetCode Topics End-->
