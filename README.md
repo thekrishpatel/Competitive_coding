@@ -60,6 +60,7 @@ Collection of competitive coding questions to ace the coding interview!
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/thekrishpatel/Competitive_coding/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1803-average-waiting-time](https://github.com/thekrishpatel/Competitive_coding/tree/master/1803-average-waiting-time) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/thekrishpatel/Competitive_coding/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2472-build-a-matrix-with-conditions](https://github.com/thekrishpatel/Competitive_coding/tree/master/2472-build-a-matrix-with-conditions) |
 ## Simulation
 |  |
 | ------- |
@@ -120,4 +121,13 @@ Collection of competitive coding questions to ace the coding interview!
 | ------- |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/thekrishpatel/Competitive_coding/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/thekrishpatel/Competitive_coding/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [2472-build-a-matrix-with-conditions](https://github.com/thekrishpatel/Competitive_coding/tree/master/2472-build-a-matrix-with-conditions) |
+## Graph
+|  |
+| ------- |
+| [2472-build-a-matrix-with-conditions](https://github.com/thekrishpatel/Competitive_coding/tree/master/2472-build-a-matrix-with-conditions) |
+## Topological Sort
+|  |
+| ------- |
+| [2472-build-a-matrix-with-conditions](https://github.com/thekrishpatel/Competitive_coding/tree/master/2472-build-a-matrix-with-conditions) |
 <!---LeetCode Topics End-->
